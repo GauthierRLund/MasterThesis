@@ -20,5 +20,7 @@ The results of the supplementary experiments were as following.
 # Running the project 
 ```
 git clone https://github.com/GauthierRLund/MasterThesis.git
+```
+```
 pip install -r requirements.txt
 ```
