@@ -5,6 +5,8 @@ We replicated the approach from the paper "Generating SPARQL from Natural Langua
 
 Based on this analysis, we designed a new experiment aimed at reducing these specific error types through targeted mitigation strategies.
 ![image](https://github.com/user-attachments/assets/3db0a3de-1172-48b0-8d0b-8451cf6f709c)
+
+
 The new experiments, evaluated using the GERBIL benchmarking framework, yielded the following results:
 ![image](https://github.com/user-attachments/assets/e213db83-e6ee-4558-80f4-0b0a30d2e88b)
 
