@@ -15,6 +15,7 @@ The new experiments, evaluated using the GERBIL benchmarking framework, yielded 
 # Supplementary experiments
 Additionally, we conducted four supplementary experiments to further evaluate model performance when provided with: gold identifiers, gold keywords, the number of triple patterns.
 The results of the supplementary experiments were as following.
+
 ![image](https://github.com/user-attachments/assets/921fe827-5bf2-4590-9581-b1346e6bfde9)
 
 # Running the project 
